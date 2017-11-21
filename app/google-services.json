@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789255041447",
+    "firebase_url": "https://rjpunofinal.firebaseio.com",
+    "project_id": "rjpunofinal",
+    "storage_bucket": "rjpunofinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789255041447:android:ee11e7d830589d7e",
+        "android_client_info": {
+          "package_name": "com.example.admin.rjpunofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789255041447-brlo2fhve5tuhplo4rkv1ptj39b6phgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.rjpunofinal",
+            "certificate_hash": "ade1d7efee825f93f8bc105c4ba04808e313758a"
+          }
+        },
+        {
+          "client_id": "789255041447-7t9051pd1fe70vatpam82d35o9hiljkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPEI8TUDfw28y2A6cYPpADfUcWC6GHUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789255041447-7t9051pd1fe70vatpam82d35o9hiljkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
